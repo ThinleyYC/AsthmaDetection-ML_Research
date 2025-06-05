@@ -1,5 +1,5 @@
 # AsthmaDetection-ML_Research
-Ensemble Method Approach in Supervised Machine Learning Algorithm for Diagnosing Respiratory Diseases.
+Ensemble Method Approach in Supervised Machine Learning Algorithm for Diagnosing Respiratory Diseases (Yet to be published). 
 
 1. Language: Python
 2. Duration: 3 months
